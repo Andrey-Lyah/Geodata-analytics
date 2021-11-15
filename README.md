@@ -14,7 +14,6 @@ Geodata analytics with plotly and bokeh
 
 >Тяжело учиться когда есть абстрактная цель, а тут она конкретная.
 ---  
----
 Если не получается открыть файл ноутбука в git hub, пожалуйста вставте эту ссылку https://github.com/Andrey-Lyah/Geodata-analytics/blob/main/Geodata_analytics_vega.ipynb в https://nbviewer.org/
 ---
 
